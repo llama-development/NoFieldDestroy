@@ -1,0 +1,4 @@
+name: NoFieldDestory
+version: 1.0.0
+api: 1.0.0
+main: net.lldv.nfd.Nfd
