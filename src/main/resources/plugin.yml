@@ -1,4 +1,4 @@
 name: NoFieldDestroy
-version: 1.0.0
+version: 1.0.1
 api: 1.0.0
 main: net.lldv.nfd.Nfd
